@@ -1,0 +1,13 @@
+.todo-card {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  width: 400px;
+}
+
+.todo-text {
+  font-size: x-large;
+  outline: none;
+  width: 200px;
+  border: none;
+}
